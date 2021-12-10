@@ -5,5 +5,5 @@ int main() {
 	scanf("%d %c", &x, &y);
 	printf("%d", x);
 	printf("%c", y);
-	return 1;
+	return 0;
 }
